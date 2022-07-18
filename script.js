@@ -22,9 +22,9 @@ const wrapper = document.getElementById("wrapper");
 const end = document.getElementById("end");
 
 const choice = [
-  "assets\\img\\Rock.png",
-  "assets\\img\\Paper.png",
-  "assets\\img\\Scissor.png",
+  "Rock.png",
+  "Paper.png",
+  "Scissor.png",
 ];
 const winOrLose = [
   "YOU WIN, THE COMPUTER LOSE",
